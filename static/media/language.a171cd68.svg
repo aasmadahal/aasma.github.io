@@ -1,0 +1,16 @@
+<!-- src/assets/images/skills/languages.svg -->
+<svg width="120" height="120" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"
+     role="img" aria-labelledby="langTitle langDesc">
+  <title id="langTitle">Languages Icon</title>
+  <desc id="langDesc">Two overlapping speech bubbles</desc>
+  <!-- Bubble 1 -->
+  <g fill="#E2E8F0" stroke="#2D3748" stroke-width="2">
+    <rect x="8" y="8" width="36" height="24" rx="4"/>
+    <polygon points="20,32 16,24 24,26" fill="#E2E8F0" stroke="#2D3748" stroke-width="2"/>
+  </g>
+  <!-- Bubble 2 -->
+  <g fill="#FFFFFF" stroke="#2D3748" stroke-width="2">
+    <rect x="20" y="28" width="36" height="24" rx="4"/>
+    <polygon points="40,52 44,44 36,46" fill="#FFFFFF" stroke="#2D3748" stroke-width="2"/>
+  </g>
+</svg>
