@@ -1,0 +1,17 @@
+<svg width="120" height="120" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"
+     role="img" aria-labelledby="softTitle softDesc">
+  <title id="softTitle">Soft Skills Icon</title>
+  <desc id="softDesc">Three stylized heads representing collaboration</desc>
+  <g fill="#E2E8F0" stroke="#2D3748" stroke-width="2">
+    <!-- Heads -->
+    <circle cx="32" cy="18" r="8"/>
+    <circle cx="18" cy="38" r="6"/>
+    <circle cx="46" cy="38" r="6"/>
+  </g>
+  <g stroke="#2D3748" stroke-width="2" fill="none">
+    <!-- Shoulders (arcs) -->
+    <path d="M24 46 a8 4 0 0 1 16 0"/>
+    <path d="M12 50 a6 3 0 0 1 12 0"/>
+    <path d="M40 50 a6 3 0 0 1 12 0"/>
+  </g>
+</svg>
