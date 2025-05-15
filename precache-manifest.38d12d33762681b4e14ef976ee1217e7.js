@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f4c62b46326cb15de8aea31216f778f",
+    "revision": "5384593fe5b44fecaf1aae484fdb472c",
     "url": "/aasma.github.io/index.html"
   },
   {
-    "revision": "4e33fb2eed46740e1e08",
+    "revision": "1426cf7b1308cd4fa999",
     "url": "/aasma.github.io/static/css/main.345e9917.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aasma.github.io/static/js/2.a5b42c89.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4e33fb2eed46740e1e08",
-    "url": "/aasma.github.io/static/js/main.455e7aff.chunk.js"
+    "revision": "1426cf7b1308cd4fa999",
+    "url": "/aasma.github.io/static/js/main.59e5c8a7.chunk.js"
   },
   {
     "revision": "4fd316d8dc0600e88e65",
