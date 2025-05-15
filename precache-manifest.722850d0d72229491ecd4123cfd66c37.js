@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5384593fe5b44fecaf1aae484fdb472c",
+    "revision": "25c9c73fe954438883fe5eba2b7e84b4",
     "url": "/aasma.github.io/index.html"
   },
   {
-    "revision": "1426cf7b1308cd4fa999",
+    "revision": "b71ad0372419ef95b812",
     "url": "/aasma.github.io/static/css/main.345e9917.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aasma.github.io/static/js/2.a5b42c89.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1426cf7b1308cd4fa999",
-    "url": "/aasma.github.io/static/js/main.59e5c8a7.chunk.js"
+    "revision": "b71ad0372419ef95b812",
+    "url": "/aasma.github.io/static/js/main.67dec20e.chunk.js"
   },
   {
     "revision": "4fd316d8dc0600e88e65",
     "url": "/aasma.github.io/static/js/runtime-main.c89e3328.js"
   },
   {
-    "revision": "8ff89a91e8157f1f9ac9f219aca22e71",
-    "url": "/aasma.github.io/static/media/AD.8ff89a91.png"
+    "revision": "cd45f9c05419cb95675405543dbea1c2",
+    "url": "/aasma.github.io/static/media/AD.cd45f9c0.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",

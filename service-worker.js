@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aasma.github.io/precache-manifest.38d12d33762681b4e14ef976ee1217e7.js"
+  "/aasma.github.io/precache-manifest.722850d0d72229491ecd4123cfd66c37.js"
 );
 
 self.addEventListener('message', (event) => {
